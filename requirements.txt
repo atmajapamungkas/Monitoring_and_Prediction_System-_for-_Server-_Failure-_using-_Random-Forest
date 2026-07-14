@@ -1,0 +1,6 @@
+psutil
+ping3
+pandas
+numpy
+scikit-learn
+matplotlib
