@@ -1,4 +1,4 @@
-# 🖥️ Server Health Failure Prediction
+# 🖥️ Monitoring and Prediction System for Server Failure
 
 A real-time server health monitoring dashboard with machine learning-based time-to-failure prediction, built with Python, Tkinter, and scikit-learn.
 
